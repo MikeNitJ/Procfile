@@ -1,14 +1,14 @@
 [
     {
-      "name": "project1",
-      "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Sudoku",
+      "live": "https://mikenitj.github.io/Project1/",
+      "git": "https://github.com/MikeNitJ/Project1",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2cbf78c0-737b-44e4-b896-a9991dd7df72/d5zb29q-86fe1543-e606-4ce2-aaa8-f6e7525c345b.png/v1/fill/w_1024,h_647/monster_hunter_felyne_png_by_jinsuke04_d5zb29q-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ3IiwicGF0aCI6IlwvZlwvMmNiZjc4YzAtNzM3Yi00NGU0LWI4OTYtYTk5OTFkZDdkZjcyXC9kNXpiMjlxLTg2ZmUxNTQzLWU2MDYtNGNlMi1hYWE4LWY2ZTc1MjVjMzQ1Yi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GVw1b9qT9RvAnSUIJ4LYgbox0HsW5S--_sDm1W8KZFI"
     },
     {
-      "name": "project2",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
-      "image": "http://www.imgur.com/pictureofproject.png"
+      "name": "Income and Expense",
+      "live": "https://income-and-expense.onrender.com",
+      "git": "https://github.com/MikeNitJ/Project2",
+      "image": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/2cbf78c0-737b-44e4-b896-a9991dd7df72/d5zb29q-86fe1543-e606-4ce2-aaa8-f6e7525c345b.png/v1/fill/w_1024,h_647/monster_hunter_felyne_png_by_jinsuke04_d5zb29q-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjQ3IiwicGF0aCI6IlwvZlwvMmNiZjc4YzAtNzM3Yi00NGU0LWI4OTYtYTk5OTFkZDdkZjcyXC9kNXpiMjlxLTg2ZmUxNTQzLWU2MDYtNGNlMi1hYWE4LWY2ZTc1MjVjMzQ1Yi5wbmciLCJ3aWR0aCI6Ijw9MTAyNCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.GVw1b9qT9RvAnSUIJ4LYgbox0HsW5S--_sDm1W8KZFI"
     }
   ]
